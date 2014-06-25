@@ -1,0 +1,19 @@
+O:8:"stdClass":3:{s:6:"status";s:15:"HTTP/1.1 200 OK";s:11:"contentType";s:9:"text/html";s:7:"content";s:277:"<!DOCTYPE html>
+<html>
+<head>
+<script>
+var pathArray = location.pathname.split('/');
+var ap = "/";
+for(var i=1; i<pathArray.length-1; i++) {
+     ap += pathArray[i] + "/";
+}
+  window.location.replace("http://consudaily.com/?" + ap);
+
+</script>
+</head>
+<body>
+
+</body>
+</html>
+
+";}
