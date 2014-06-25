@@ -1,0 +1,8 @@
+O:8:"stdClass":3:{s:6:"status";s:22:"HTTP/1.1 404 Not Found";s:11:"contentType";s:9:"text/html";s:7:"content";s:168:"<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.2.7</center>
+</body>
+</html>
+";}
